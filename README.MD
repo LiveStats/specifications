@@ -8,7 +8,6 @@ LiveStats is a collection of services that can be broken down into 4 categories
 
 * Data Gathering
 * Rendering
-* Audio
 * Streaming
 
 ### Data Gathering
@@ -23,14 +22,8 @@ The rendering services are responsible for rendering the data gathered.
 
 See [Rendering.MD](Rendering.MD) for more information
 
-### Audio
-
-The audio services are responsible for the background audio.
-
-See [Audio.MD](Audio.MD) for more information
-
 ### Streaming
 
-The streaming service is responsible for streaming the rendered content out to your platform of choice.
+The streaming service is responsible for streaming the rendered content and mixing an audio stream in, then broadcasting to your platform of choice.
 
 See [Streaming.MD](Streaming.MD) for more information
