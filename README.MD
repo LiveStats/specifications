@@ -4,10 +4,11 @@ LiveStats is a Live Streaming application for steaming live statistics, with dat
 
 ## Services
 
-LiveStats is a collection of services that can be broken down into 3 categories
+LiveStats is a collection of services that can be broken down into 4 categories
 
 * Data Gathering
 * Rendering
+* Audio
 * Streaming
 
 ### Data Gathering
@@ -21,6 +22,12 @@ See [Data-Gathering.MD](Data-Gathering.MD) for more information
 The rendering services are responsible for rendering the data gathered.
 
 See [Rendering.MD](Rendering.MD) for more information
+
+### Audio
+
+The audio services are responsible for the background audio.
+
+See [Audio.MD](Audio.MD) for more information
 
 ### Streaming
 
